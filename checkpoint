@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/guoyingmei/new_lstm/text_lstm/src/../model"
+all_model_checkpoint_paths: "/home/guoyingmei/new_lstm/text_lstm/src/../model"
